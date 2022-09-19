@@ -1,4 +1,4 @@
 // node_modules
-
+.env
 
 DB_URL=mongodb+srv://nashirumariam:GAMSOn12@cluster0.2ecyygh.mongodb.net/schoolAPI?retryWrites=true&w=majority
